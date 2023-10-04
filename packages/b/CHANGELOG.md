@@ -2,6 +2,18 @@
 
 ### Dependencies
 
+## [0.1.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-test-package-release-please-2-v0.0.2...b-test-package-release-please-2-v0.1.0) (2023-10-04)
+
+
+### Features
+
+* Returning bar instead of baz ([65ee61b](https://github.com/silvester-pari/release-please-monorepo-test/commit/65ee61bad392c04fb3eea62b98c9487be54f3131))
+
+
+### Bug Fixes
+
+* Add exclamation mark ([8d884c1](https://github.com/silvester-pari/release-please-monorepo-test/commit/8d884c1188dc21cc8029afc61785bcbd6194e06e))
+
 ## [0.0.2](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-test-package-release-please-2-v0.7.1...b-test-package-release-please-2-v0.0.2) (2023-10-04)
 
 
