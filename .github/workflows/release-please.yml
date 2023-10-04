@@ -23,7 +23,7 @@ jobs:
       - name: Dump
         env:
           ELEMENT_DIR: ${{ steps.release.outputs.paths_released }}
-        run: echo "${ELEMENT_DIR:2:-2}"
+        run: echo '${ELEMENT_DIR}' | tr -d '[]"'
 
       - uses: actions/checkout@v4
         # these if statements ensure that a publication only occurs when
@@ -44,7 +44,7 @@ jobs:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
           ELEMENT_DIR: ${{ steps.release.outputs.paths_released }}
         run: |
-          cd ${ELEMENT_DIR:2:-2} && \
+          cd '${ELEMENT_DIR}' | tr -d '[]"' && \
           npm run build && \
           npm publish
         if: ${{ steps.release.outputs.releases_created }}
