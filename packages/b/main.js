@@ -1,3 +1,3 @@
 alert("Hello World!");
 
-console.log("Hello from package b");
+console.log("Hello from package b!");
