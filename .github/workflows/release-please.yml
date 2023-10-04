@@ -22,8 +22,8 @@ jobs:
       
       - name: Dump
         env:
-          ELEMENT_DIR: sed -i `s/[^a-zA-Z0-9/]//g` ${{ steps.release.outputs.paths_released }}
-        run: echo "$ELEMENT_DIR"
+          ELEMENT_DIR: ${{ steps.release.outputs.paths_released }}
+        run: echo "sed -i `s/[^a-zA-Z0-9/]//g` $ELEMENT_DIR"
 
       - uses: actions/checkout@v4
         # these if statements ensure that a publication only occurs when
