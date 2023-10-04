@@ -4,13 +4,12 @@
 
 ## [0.2.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.1.0...b-v0.2.0) (2023-10-04)
 
-
 ### Features
 
-* Foo method ([d0f95a1](https://github.com/silvester-pari/release-please-monorepo-test/commit/d0f95a180c3264381d0bf2bae9ad281ffd0e20b2))
-* Make foo method public in order to test a long commit message ([04567f8](https://github.com/silvester-pari/release-please-monorepo-test/commit/04567f81e61359c71e5271cb525fb65c8b858218))
-* Return in new line ([b673a49](https://github.com/silvester-pari/release-please-monorepo-test/commit/b673a497be5b19c2952f906b75fea93c960dd088))
-* Use the a package ([2e16d76](https://github.com/silvester-pari/release-please-monorepo-test/commit/2e16d76ae9dd7636560e888ba6d697b2e9ccc8bb))
+- Foo method ([d0f95a1](https://github.com/silvester-pari/release-please-monorepo-test/commit/d0f95a180c3264381d0bf2bae9ad281ffd0e20b2))
+- Make foo method public in order to test a long commit message ([04567f8](https://github.com/silvester-pari/release-please-monorepo-test/commit/04567f81e61359c71e5271cb525fb65c8b858218))
+- Return in new line ([b673a49](https://github.com/silvester-pari/release-please-monorepo-test/commit/b673a497be5b19c2952f906b75fea93c960dd088))
+- Use the a package ([2e16d76](https://github.com/silvester-pari/release-please-monorepo-test/commit/2e16d76ae9dd7636560e888ba6d697b2e9ccc8bb))
 
 ## [0.1.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.0.2...b-v0.1.0) (2023-10-04)
 
