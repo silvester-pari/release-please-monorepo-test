@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/c-test-package-release-please-v0.0.3...c-test-package-release-please-v0.1.0) (2023-10-04)
+
+
+### Features
+
+* Added alert ([d344620](https://github.com/silvester-pari/release-please-monorepo-test/commit/d344620095254dd5970349240a9876ac0ed0110f))
+
 ## [0.0.3](https://github.com/silvester-pari/release-please-monorepo-test/compare/c-test-package-release-please-v0.0.2...c-test-package-release-please-v0.0.3) (2023-10-04)
 
 
