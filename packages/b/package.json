@@ -1,5 +1,5 @@
 {
-  "name": "b",
+  "name": "b-test-package-release-please-2",
   "version": "0.7.1",
   "type": "module",
   "devDependencies": {
