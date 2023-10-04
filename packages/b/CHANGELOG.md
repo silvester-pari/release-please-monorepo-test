@@ -2,6 +2,13 @@
 
 ### Dependencies
 
+## [0.5.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.4.0...b-v0.5.0) (2023-10-04)
+
+
+### Features
+
+* Return baz instead of bar ([30f0c9f](https://github.com/silvester-pari/release-please-monorepo-test/commit/30f0c9fc8a21c66d3f9e5d3d48c2c55e83020779))
+
 ## [0.4.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.3.0...b-v0.4.0) (2023-10-04)
 
 ### Features
