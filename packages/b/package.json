@@ -19,5 +19,7 @@
     "lint": "eslint --ext .js,.ts .",
     "lint:fix": "eslint --ext .js,.ts . --fix"
   },
-  "dependencies": {}
+  "dependencies": {
+    "a": "^1.1.0"
+  }
 }
