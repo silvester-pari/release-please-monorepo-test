@@ -5,5 +5,5 @@ alert("Hello World!");
 console.log("Hello from package b!");
 
 export const foo = () => {
-  return "bar";
+  return "baz";
 };
