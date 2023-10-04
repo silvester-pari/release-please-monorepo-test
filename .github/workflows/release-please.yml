@@ -21,7 +21,7 @@ jobs:
           monorepo-tags: true
       
       - run: |
-          ELEMENT_DIR="${{ steps.release.outputs.paths_released}}"" && \
+          ELEMENT_DIR="${{ steps.release.outputs.paths_released}}" && \
           echo "s/[^a-zA-Z0-9/]/${ELEMENT_DIR}/g"
 
       - uses: actions/checkout@v4
@@ -39,7 +39,7 @@ jobs:
         if: ${{ steps.release.outputs.releases_created }}
 
       - run: |
-          ELEMENT_DIR="${{ steps.release.outputs.paths_released}}"" && \
+          ELEMENT_DIR="${{ steps.release.outputs.paths_released}}" && \
           cd "s/[^a-zA-Z0-9/]/${ELEMENT_DIR}/g" && \
           ls && \
           npm run build && \
