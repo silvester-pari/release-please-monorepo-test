@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/silvester-pari/release-please-monorepo-test/compare/c-test-package-release-please-2-v0.1.3...c-test-package-release-please-2-v0.1.4) (2023-10-04)
+
+
+### Bug Fixes
+
+* Added exclamation mark ([78ef0df](https://github.com/silvester-pari/release-please-monorepo-test/commit/78ef0df76c2f89678b70eedb25ea3d6d4d32b2cd))
+
 ## [0.1.3](https://github.com/silvester-pari/release-please-monorepo-test/compare/c-test-package-release-please-2-v0.1.2...c-test-package-release-please-2-v0.1.3) (2023-10-04)
 
 
