@@ -6,7 +6,7 @@
     "packages/*"
   ],
   "scripts": {
-    "publish": "npm run build -ws && npm publish -ws"
+    "publish": "npm run build -ws && npm publish -w c-test-package-release-please"
   },
   "devDependencies": {},
   "engines": {
