@@ -19,7 +19,7 @@ jobs:
           release-type: node
           command: manifest
           monorepo-tags: true
-      
+
       - name: Dump
         env:
           ELEMENT_DIR: ${{ steps.release.outputs.paths_released }}
