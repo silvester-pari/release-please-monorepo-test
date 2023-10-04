@@ -1,5 +1,9 @@
 # Changelog
 
+### Dependencies
+
+
+
 ## [0.4.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.3.0...b-v0.4.0) (2023-10-04)
 
 
