@@ -25,13 +25,6 @@ jobs:
         with:
           ref: ${{ fromJson(steps.release.outputs.pr).headBranchName }}
 
-      - name: Configure Git user
-        if: ${{ steps.release.outputs.pr }}
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git --no-pager show --name-only
-
       - name: Run Outputted files through prettier
         if: ${{ steps.release.outputs.pr }}
         run: npx prettier --write **/CHANGELOG.md .release-please-manifest.json
