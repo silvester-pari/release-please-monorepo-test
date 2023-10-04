@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/silvester-pari/release-please-monorepo-test/compare/c-test-package-release-please-2-v0.1.1...c-test-package-release-please-2-v0.1.2) (2023-10-04)
+
+
+### Bug Fixes
+
+* Update ([7978eca](https://github.com/silvester-pari/release-please-monorepo-test/commit/7978eca4b233bf02b743c7f6286d4fb731ef8d8d))
+
 ## [0.1.1](https://github.com/silvester-pari/release-please-monorepo-test/compare/c-test-package-release-please-2-v0.1.0...c-test-package-release-please-2-v0.1.1) (2023-10-04)
 
 
