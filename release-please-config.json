@@ -3,7 +3,7 @@
     "packages/a": {},
     "packages/b": {}
   },
-  "plugins": ["node-workspace", "sentence-case"],
+  "plugins": ["sentence-case"],
   "bump-minor-pre-major": true,
   "separate-pull-requests": true
 }
