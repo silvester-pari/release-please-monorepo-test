@@ -23,7 +23,7 @@ jobs:
       - name: Dump
         env:
           ELEMENT_DIR: ${{ steps.release.outputs.paths_released }}
-        run: echo '${ELEMENT_DIR}' | sed s/[^a-zA-Z0-9/]//g
+        run: echo "${ELEMENT_DIR:2:-2}"
 
       - uses: actions/checkout@v4
         # these if statements ensure that a publication only occurs when
@@ -43,7 +43,7 @@ jobs:
         env:
           ELEMENT_DIR: ${{ steps.release.outputs.paths_released }}
         run: |
-          cd `echo '${ELEMENT_DIR}' | sed s/[^a-zA-Z0-9/]//g` && \
+          cd ${ELEMENT_DIR:2:-2} && \
           npm run build && \
           npm publish
         env:
