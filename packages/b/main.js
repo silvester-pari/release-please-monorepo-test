@@ -2,4 +2,6 @@ alert("Hello World!");
 
 console.log("Hello from package b!");
 
-export const foo = () => "bar";
+export const foo = () => {
+  return "bar";
+};
