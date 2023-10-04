@@ -1,5 +1,5 @@
 /**
- * A comment - now released?
+ * A comment - now released!
  */
 
 alert("Hello World!");
