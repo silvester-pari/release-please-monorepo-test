@@ -2,6 +2,15 @@
 
 ### Dependencies
 
+## [0.3.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.2.0...b-v0.3.0) (2023-10-04)
+
+
+### Features
+
+* Make foo method public in order to test a long commit message ([04567f8](https://github.com/silvester-pari/release-please-monorepo-test/commit/04567f81e61359c71e5271cb525fb65c8b858218))
+* Return in new line ([b673a49](https://github.com/silvester-pari/release-please-monorepo-test/commit/b673a497be5b19c2952f906b75fea93c960dd088))
+* Use the a package ([2e16d76](https://github.com/silvester-pari/release-please-monorepo-test/commit/2e16d76ae9dd7636560e888ba6d697b2e9ccc8bb))
+
 ## [0.2.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.1.0...b-v0.2.0) (2023-10-04)
 
 
