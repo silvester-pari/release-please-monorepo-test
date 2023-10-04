@@ -20,9 +20,7 @@ jobs:
           command: manifest
           monorepo-tags: true
 
-      - run: |
-        echo "Output [${{steps.release.outputs.release_created}}]"
-        echo "Outputs [${{steps.release.outputs}}]"
+      - run: echo "Outputs [${{steps.release.outputs}}]"
 
       - uses: actions/checkout@v3
         # these if statements ensure that a publication only occurs when
