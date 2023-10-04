@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/a-v0.1.0...a-v1.0.0) (2023-10-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* export foo function ([#6](https://github.com/silvester-pari/release-please-monorepo-test/issues/6))
+
+### Features
+
+* export foo function ([#6](https://github.com/silvester-pari/release-please-monorepo-test/issues/6)) ([8eee655](https://github.com/silvester-pari/release-please-monorepo-test/commit/8eee655aec88061f8c738cfd3849c56e1db92415))
+
 ## [0.1.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/a-v0.0.2...a-v0.1.0) (2023-10-04)
 
 
