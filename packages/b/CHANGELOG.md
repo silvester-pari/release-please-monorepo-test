@@ -1,18 +1,18 @@
 # Changelog
 
-## [0.4.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.3.0...b-v0.4.0) (2023-10-04)
+### Dependencies
 
+## [0.4.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.3.0...b-v0.4.0) (2023-10-04)
 
 ### Features
 
-* Use the a package ([2e16d76](https://github.com/silvester-pari/release-please-monorepo-test/commit/2e16d76ae9dd7636560e888ba6d697b2e9ccc8bb))
-
+- Use the a package ([2e16d76](https://github.com/silvester-pari/release-please-monorepo-test/commit/2e16d76ae9dd7636560e888ba6d697b2e9ccc8bb))
 
 ### Dependencies
 
-* The following workspace dependencies were updated
-  * dependencies
-    * a bumped from ^1.1.0 to ^1.2.0
+- The following workspace dependencies were updated
+  - dependencies
+    - a bumped from ^1.1.0 to ^1.2.0
 
 ## [0.3.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.2.0...b-v0.3.0) (2023-10-04)
 
