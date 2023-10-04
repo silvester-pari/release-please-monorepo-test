@@ -1,0 +1,14 @@
+{
+  "name": "release-please-monorepo-test",
+  "private": true,
+  "version": "0.0.1",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.16.0"
+  },
+  "dependencies": {}
+}

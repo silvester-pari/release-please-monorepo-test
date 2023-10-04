@@ -1,0 +1,23 @@
+{
+  "name": "b",
+  "version": "0.0.1",
+  "type": "module",
+  "devDependencies": {
+    "@eox/eslint-config": "^1.0.0"
+  },
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "test"
+  ],
+  "main": "./dist/b.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "lint": "eslint --ext .js,.ts .",
+    "lint:fix": "eslint --ext .js,.ts . --fix"
+  },
+  "dependencies": {}
+}
