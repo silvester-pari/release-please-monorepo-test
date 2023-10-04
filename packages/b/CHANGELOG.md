@@ -2,6 +2,13 @@
 
 ### Dependencies
 
+## [0.7.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.6.0...b-v0.7.0) (2023-10-04)
+
+
+### Features
+
+* New comment in b ([281f5f8](https://github.com/silvester-pari/release-please-monorepo-test/commit/281f5f819e23b0c8f81135819ee8b908fb7785b5))
+
 ## [0.6.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.5.0...b-v0.6.0) (2023-10-04)
 
 
