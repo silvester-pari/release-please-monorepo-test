@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.1.0...b-v0.2.0) (2023-10-04)
+
+
+### Features
+
+* foo method ([d0f95a1](https://github.com/silvester-pari/release-please-monorepo-test/commit/d0f95a180c3264381d0bf2bae9ad281ffd0e20b2))
+
 ## [0.1.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.0.2...b-v0.1.0) (2023-10-04)
 
 
