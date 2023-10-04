@@ -2,10 +2,9 @@
 
 ## [1.2.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/a-v1.1.0...a-v1.2.0) (2023-10-04)
 
-
 ### Features
 
-* New hello function ([515a9ce](https://github.com/silvester-pari/release-please-monorepo-test/commit/515a9ce27d3b4499e589d722a9e9ea4bc9c7d7e9))
+- New hello function ([515a9ce](https://github.com/silvester-pari/release-please-monorepo-test/commit/515a9ce27d3b4499e589d722a9e9ea4bc9c7d7e9))
 
 ## [1.1.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/a-v1.0.0...a-v1.1.0) (2023-10-04)
 
