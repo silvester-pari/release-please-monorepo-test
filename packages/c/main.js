@@ -2,5 +2,5 @@
  * A comment - a new package
  */
 
-console.log("hello");
+console.log("hello!");
 alert("Hello!");
