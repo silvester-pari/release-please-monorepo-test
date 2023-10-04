@@ -1,0 +1,24 @@
+{
+  "name": "c-test-package-release-please",
+  "version": "0.1.0",
+  "type": "module",
+  "devDependencies": {
+    "@eox/eslint-config": "^1.0.0",
+    "vite": "^4.0.0"
+  },
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "test"
+  ],
+  "main": "./dist/c.js",
+  "scripts": {
+    "build": "vite build",
+    "format": "prettier --write .",
+    "lint": "eslint --ext .js,.ts .",
+    "lint:fix": "eslint --ext .js,.ts . --fix"
+  }
+}
