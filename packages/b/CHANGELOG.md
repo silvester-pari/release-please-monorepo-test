@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.0.2...b-v0.1.0) (2023-10-04)
+
+
+### Features
+
+* add console log to package b as well ([#4](https://github.com/silvester-pari/release-please-monorepo-test/issues/4)) ([a97a8ce](https://github.com/silvester-pari/release-please-monorepo-test/commit/a97a8ced4b331f9b5ab02d0eb2d600350bef2ca3))
+
 ## 0.0.2 (2023-10-04)
 
 ### Features
