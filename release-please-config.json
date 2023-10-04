@@ -1,7 +1,8 @@
 {
   "packages": {
     "packages/a": {},
-    "packages/b": {}
+    "packages/b": {},
+    "packages/c": {}
   },
   "plugins": ["sentence-case"],
   "bump-minor-pre-major": true,
