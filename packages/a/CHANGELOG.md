@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/a-v1.2.0...a-v1.3.0) (2023-10-04)
+
+
+### Features
+
+* New feature that should be published ([f0652cc](https://github.com/silvester-pari/release-please-monorepo-test/commit/f0652cc79f402db9c638a708b7fa56b0b47af851))
+
 ## [1.2.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/a-v1.1.0...a-v1.2.0) (2023-10-04)
 
 ### Features
