@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.2.0...b-v0.3.0) (2023-10-04)
+
+
+### Features
+
+* make foo method public in order to test a long commit message ([04567f8](https://github.com/silvester-pari/release-please-monorepo-test/commit/04567f81e61359c71e5271cb525fb65c8b858218))
+* return in new line ([b673a49](https://github.com/silvester-pari/release-please-monorepo-test/commit/b673a497be5b19c2952f906b75fea93c960dd088))
+
 ## [0.2.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.1.0...b-v0.2.0) (2023-10-04)
 
 ### Features

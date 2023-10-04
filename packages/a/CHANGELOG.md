@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/a-v1.0.0...a-v1.1.0) (2023-10-04)
+
+
+### Features
+
+* return baz instead of bar ([d6f9111](https://github.com/silvester-pari/release-please-monorepo-test/commit/d6f91115e4b8c0b810a8004649e854e5ce1dc752))
+
 ## [1.0.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/a-v0.1.0...a-v1.0.0) (2023-10-04)
 
 ### ⚠ BREAKING CHANGES
