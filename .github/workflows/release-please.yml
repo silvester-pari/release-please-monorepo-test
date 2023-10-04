@@ -41,11 +41,10 @@ jobs:
 
       - name: Build and publish package
         env:
+          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
           ELEMENT_DIR: ${{ steps.release.outputs.paths_released }}
         run: |
           cd ${ELEMENT_DIR:2:-2} && \
           npm run build && \
           npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
         if: ${{ steps.release.outputs.releases_created }}
