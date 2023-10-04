@@ -2,6 +2,17 @@
 
 ### Dependencies
 
+## [0.1.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.0.2...b-v0.1.0) (2023-10-04)
+
+
+### Features
+
+* Add console log to package b as well ([#4](https://github.com/silvester-pari/release-please-monorepo-test/issues/4)) ([a97a8ce](https://github.com/silvester-pari/release-please-monorepo-test/commit/a97a8ced4b331f9b5ab02d0eb2d600350bef2ca3))
+* Foo method ([d0f95a1](https://github.com/silvester-pari/release-please-monorepo-test/commit/d0f95a180c3264381d0bf2bae9ad281ffd0e20b2))
+* Make foo method public in order to test a long commit message ([04567f8](https://github.com/silvester-pari/release-please-monorepo-test/commit/04567f81e61359c71e5271cb525fb65c8b858218))
+* Return in new line ([b673a49](https://github.com/silvester-pari/release-please-monorepo-test/commit/b673a497be5b19c2952f906b75fea93c960dd088))
+* Use the a package ([2e16d76](https://github.com/silvester-pari/release-please-monorepo-test/commit/2e16d76ae9dd7636560e888ba6d697b2e9ccc8bb))
+
 ## [0.0.2](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-v0.4.1...b-v0.0.2) (2023-10-04)
 
 
