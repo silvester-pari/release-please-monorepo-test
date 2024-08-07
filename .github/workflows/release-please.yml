@@ -49,6 +49,6 @@ jobs:
           cd $path && \
           npm run build && \
           npm publish --dry-run && \
-          cd ../../ \
+          cd ../../
           done
         if: ${{ steps.release.outputs.releases_created }}
