@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.3](https://github.com/silvester-pari/release-please-monorepo-test/compare/a-test-package-release-please-2-v1.3.2...a-test-package-release-please-2-v1.3.3) (2024-08-07)
+
+
+### Bug Fixes
+
+* Update main.js ([3ccdb8d](https://github.com/silvester-pari/release-please-monorepo-test/commit/3ccdb8d75feeec212e9734736bd48132814d8203))
+
 ## [1.3.2](https://github.com/silvester-pari/release-please-monorepo-test/compare/a-test-package-release-please-2-v1.3.1...a-test-package-release-please-2-v1.3.2) (2024-08-07)
 
 
