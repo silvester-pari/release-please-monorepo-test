@@ -1,5 +1,5 @@
 /**
- * Package a - now released
+ * Package a - now released!
  */
 
 alert("A shiny new world!");
