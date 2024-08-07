@@ -1,5 +1,5 @@
 /**
- * A comment - a new package
+ * A comment - a new package!
  */
 
 console.log("hello!");
