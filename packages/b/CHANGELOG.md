@@ -2,6 +2,13 @@
 
 ### Dependencies
 
+## [0.1.1](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-test-package-release-please-2-v0.1.0...b-test-package-release-please-2-v0.1.1) (2024-08-07)
+
+
+### Bug Fixes
+
+* Another update ([51b73cc](https://github.com/silvester-pari/release-please-monorepo-test/commit/51b73cc379472a4d8353ef222d441a5f726e51dc))
+
 ## [0.1.0](https://github.com/silvester-pari/release-please-monorepo-test/compare/b-test-package-release-please-2-v0.0.2...b-test-package-release-please-2-v0.1.0) (2023-10-04)
 
 
