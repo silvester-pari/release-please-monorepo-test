@@ -8,4 +8,5 @@
   "plugins": ["sentence-case"],
   "bump-minor-pre-major": true,
   "separate-pull-requests": false
+  "changelog-type": "github"
 }
