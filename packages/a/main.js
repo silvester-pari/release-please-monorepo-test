@@ -10,5 +10,5 @@ export const foo = () => {
 };
 
 export const hello = () => {
-  return "world";
+  return "world!";
 };
