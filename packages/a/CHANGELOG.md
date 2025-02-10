@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.8](https://github.com/silvester-pari/release-please-monorepo-test/compare/a-test-package-release-please-2-v1.3.7...a-test-package-release-please-2-v1.3.8) (2025-02-10)
+
+
+### Bug Fixes
+
+* Update string ([17f247b](https://github.com/silvester-pari/release-please-monorepo-test/commit/17f247bcbd3b3451aeda6192ee0a08b11ba7dc30))
+* Update string ([#67](https://github.com/silvester-pari/release-please-monorepo-test/issues/67)) ([13f8668](https://github.com/silvester-pari/release-please-monorepo-test/commit/13f8668f924033c3f052681deb243d24d146223a))
+
 ## [1.3.7](https://github.com/silvester-pari/release-please-monorepo-test/compare/a-test-package-release-please-2-v1.3.6...a-test-package-release-please-2-v1.3.7) (2024-08-07)
 
 
